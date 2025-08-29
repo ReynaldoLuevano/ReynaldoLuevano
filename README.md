@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReynaldoLuevano
 - 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning AWS
+- 🌱 I’m an AWS Champion Authorized Instructor (AAI)
 - 📫 reynaldoluevano.com
 
 <!---
